@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL file
+__pycache__/
+
+# PyCharm
+# http://www.jetbrains.com/pycharm/webhelp/project.html
+.idea
+.iml
+
+# Distribution / packaging
+*.egg-info/
+build/
+*.egg
+
+# log or exe:
+*.log
+*.exe
+*.json
